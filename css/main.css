@@ -13,6 +13,18 @@ body, html {
   background-size: cover;
 
 }
+.mercury { 
+  width: 280px; 
+  height: 280px; 
+  padding: 6px 0px; 
+  border-radius: 200px; 
+  font-size: 8px; 
+  text-align: center; 
+  margin-left:520px;
+  margin-top:220px;
+  background-color: transparent;
+  color-rendering: transparent;
+} 
 
 .bg {
   /* The image used */
