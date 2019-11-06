@@ -29,6 +29,19 @@ body, html {
 
 }
 
+.bg3 {
+  
+  background-image: url("imagenes/alliesnbg.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 .bg2 {
   /* The image used */
   background-image: url("imagenes/more_us.png");
@@ -48,7 +61,7 @@ body, html {
 
   /* Full height */
   height: 100%;
-
+  background-color: red;
   /* Center and scale the image nicely */
   background-position: center;
   background-repeat: no-repeat;
@@ -71,7 +84,7 @@ body, html {
 
 .ul-wrapp{
 
-  margin.top:200px;
+  margin-top:200px;
   
 
 }
@@ -95,5 +108,27 @@ body, html {
   height:50px;
   border: 1px solid black;
 
+
+}
+
+.allies{
+
+  width: 45%;
+  height: 80%;
+
+  margin-left:10%;
+  margin-top:0%;
+
+  float: left;
+
+  color: white;
+
+}
+
+.img1 { 
+
+  float: left;
+
+  margin-left:5%;
 
 }
