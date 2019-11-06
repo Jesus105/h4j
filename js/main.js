@@ -7,3 +7,9 @@ $("#b_start").on("click", () => {
 
 })
 
+const loadContent = () => {
+ 
+   $("#content-wrapper").load("html/about_us.html");   
+
+}
+
