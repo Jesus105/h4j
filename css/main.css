@@ -61,7 +61,7 @@ body, html {
 
   /* Full height */
   height: 100%;
-  background-color: red;
+  margin-top: 0;
   /* Center and scale the image nicely */
   background-position: center;
   background-repeat: no-repeat;
@@ -79,14 +79,6 @@ body, html {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-}
-
-
-.ul-wrapp{
-
-  margin-top:200px;
-  
-
 }
 
 .nickname {
