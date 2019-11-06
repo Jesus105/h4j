@@ -7,6 +7,18 @@ $("#b_start").on("click", () => {
 
 })
 
+$("#b_go").on("click", () => {
+
+ window.location.href = "Spafy.html";
+
+})
+
+$("#b_sp").on("click", () => {
+
+ window.location.href = "questions.html";
+
+})
+
 const loadContent = () => {
  
    $("#content-wrapper").load("html/about_us.html");   

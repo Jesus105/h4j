@@ -13,6 +13,19 @@ body, html {
   background-size: cover;
 
 }
+.Spafy { 
+  width: 100px; 
+  height: 100px; 
+  padding: 6px 0px; 
+  border-radius: 200px; 
+  font-size: 8px; 
+  text-align: center; 
+  margin-left:46%;
+  margin-top:45.6%;
+  background-color: transparent;
+  color-rendering: transparent;
+  border-color: transparent;
+} 
 .mercury { 
   width: 280px; 
   height: 280px; 
@@ -24,6 +37,7 @@ body, html {
   margin-top:17%;
   background-color: transparent;
   color-rendering: transparent;
+  border-color: transparent;
 } 
 
 .bg {
@@ -32,6 +46,50 @@ body, html {
 
   /* Full height */
   height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.sp {
+  /* The image used */
+  background-image: url("imagenes/sp.png");
+
+  /* Full height */
+  height: 100%;
+
+  width: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1{
+
+  color: white;
+
+}
+
+.put{
+
+  color: white;
+   margin-top:140px;
+   margin-left:240px;
+
+}
+
+.qs {
+  /* The image used */
+  background-image: url("imagenes/questions.png");
+
+  /* Full height */
+  height: 100%;
+
+  width: 100%;
 
   /* Center and scale the image nicely */
   background-position: center;
