@@ -2,6 +2,7 @@ body, html {
   height: 100%;
 }
 
+<<<<<<< HEAD
 .main-wrapper{
 
   /* Full height */
@@ -26,6 +27,8 @@ body, html {
   color-rendering: transparent;
   border-color: transparent;
 } 
+=======
+>>>>>>> 0dcd4f47e6e749c63300e2c3f4b57f569c0f965d
 .mercury { 
   width: 280px; 
   height: 280px; 
@@ -37,8 +40,39 @@ body, html {
   margin-top:17%;
   background-color: transparent;
   color-rendering: transparent;
+<<<<<<< HEAD
   border-color: transparent;
 } 
+=======
+}
+
+.mau{
+
+  width: 45%;
+  height: 80%;
+
+  margin-left:10%;
+  margin-top:2%;
+
+  float: left;
+
+  color: white;
+
+}
+
+.bg2 {
+  /* The image used */
+  background-image: url("imagenes/more_us.png");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+>>>>>>> 0dcd4f47e6e749c63300e2c3f4b57f569c0f965d
 
 .bg {
   /* The image used */
