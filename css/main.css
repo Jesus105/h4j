@@ -27,8 +27,7 @@ body, html {
   color-rendering: transparent;
   border-color: transparent;
 } 
-=======
->>>>>>> 0dcd4f47e6e749c63300e2c3f4b57f569c0f965d
+
 .mercury { 
   width: 280px; 
   height: 280px; 
@@ -40,12 +39,74 @@ body, html {
   margin-top:17%;
   background-color: transparent;
   color-rendering: transparent;
-<<<<<<< HEAD
   border-color: transparent;
-} 
-=======
 }
 
+.sg_1 { 
+  width: 280px; 
+  height: 150px; 
+  padding: 6px 0px; 
+  border-radius: 20px; 
+  font-size: 8px; 
+  text-align: center; 
+  margin-left:15.5%;
+  margin-top:22%;
+  background-color: transparent;
+  color-rendering: transparent;
+  border-color: transparent;
+}
+.sg_2 { 
+  width: 280px; 
+  height: 150px; 
+  padding: 6px 0px; 
+  border-radius: 20px; 
+  font-size: 8px; 
+  text-align: center; 
+  margin-left:60.5%;
+  margin-top:40%;
+  background-color: transparent;
+  color-rendering: transparent;
+  border-color: transparent;
+}
+.sg_3 { 
+  width: 280px; 
+  height: 150px; 
+  padding: 6px 0px; 
+  border-radius: 20px; 
+  font-size: 8px; 
+  text-align: center; 
+  margin-left:60.5%;
+  margin-top:22%;
+  background-color: transparent;
+  color-rendering: transparent;
+  border-color: transparent;
+}
+.sg_4 { 
+  width: 280px; 
+  height: 150px; 
+  padding: 6px 0px; 
+  border-radius: 20px; 
+  font-size: 8px; 
+  text-align: center; 
+  margin-left:15.5%;
+  margin-top:22%;
+  background-color: transparent;
+  color-rendering: transparent;
+  border-color: transparent;
+}
+.sg_5 { 
+  width: 280px; 
+  height: 150px; 
+  padding: 6px 0px; 
+  border-radius: 20px; 
+  font-size: 8px; 
+  text-align: center; 
+  margin-left:15.5%;
+  margin-top:22%;
+  background-color: transparent;
+  color-rendering: transparent;
+  border-color: transparent;
+}
 .mau{
 
   width: 45%;
@@ -90,6 +151,82 @@ body, html {
 .bg {
     /* The image used */
   background-image: url("imagenes/bj_1.png");
+
+  /* Full height */
+  height: 100%;
+
+  width: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+.bg4 {
+    /* The image used */
+  background-image: url("imagenes/que_1.png");
+
+  /* Full height */
+  height: 100%;
+
+  width: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg5 {
+    /* The image used */
+  background-image: url("imagenes/que_2.png");
+
+  /* Full height */
+  height: 100%;
+
+  width: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg6 {
+    /* The image used */
+  background-image: url("imagenes/que_3.png");
+
+  /* Full height */
+  height: 100%;
+
+  width: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg7 {
+    /* The image used */
+  background-image: url("imagenes/que_4.png");
+
+  /* Full height */
+  height: 100%;
+
+  width: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.rs {
+    /* The image used */
+  background-image: url("imagenes/result.png");
 
   /* Full height */
   height: 100%;
