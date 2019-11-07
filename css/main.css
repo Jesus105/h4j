@@ -85,15 +85,17 @@ body, html {
   background-repeat: no-repeat;
   background-size: cover;
 }
->>>>>>> 0dcd4f47e6e749c63300e2c3f4b57f569c0f965d
+
 
 .bg {
-  /* The image used */
+    /* The image used */
   background-image: url("imagenes/bj_1.png");
 
   /* Full height */
   height: 100%;
-  margin-top: 0;
+
+  width: 100%;
+
   /* Center and scale the image nicely */
   background-position: center;
   background-repeat: no-repeat;
